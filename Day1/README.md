@@ -118,11 +118,11 @@ jupyter notebook
 
 | # | Concept | Documentation |
 |---|---------|-------------|
-| 1 | **Defining Functions** | [📖 Read Guide](Day1/Funcation/Defining_Functions.md) |
-| 2 | **Arguments & Return** | [📖 Read Guide](Day1/Funcation/Defining_Functions.md#4-the-return-statement) |
-| 3 | **Applications** | [🚀 Read Guide](Day1/Funcation/Applications_Of_Functions.md) |
-| 4 | **`*args` & `**kwargs`** | [⚡ Read Guide](Day1/Funcation/Advanced_Arguments.md) |
-| 5 | **Jupyter Notebook** | [📓 Open Notebook](Day1/Funcation/FuncationPyhton.ipynb) |
+| 1 | **Defining Functions** | [📖 Read Guide](Funcation/Defining_Functions.md) |
+| 2 | **Arguments & Return** | [📖 Read Guide](Funcation/Defining_Functions.md#4-the-return-statement) |
+| 3 | **Applications** | [🚀 Read Guide](Funcation/Applications_Of_Functions.md) |
+| 4 | **`*args` & `**kwargs`** | [⚡ Read Guide](Funcation/Advanced_Arguments.md) |
+| 5 | **Jupyter Notebook** | [📓 Open Notebook](Funcation/FuncationPyhton.ipynb) |
 
 ---
 
