@@ -116,14 +116,13 @@ jupyter notebook
 
 ## 📖 What's Covered in Day 1 — Functions
 
-| # | Concept | Description |
+| # | Concept | Documentation |
 |---|---------|-------------|
-| 1 | **Basic Function** | Defining and calling a simple function with `def` |
-| 2 | **Parameters & Return** | Passing inputs and getting outputs with `return` |
-| 3 | **Default Parameters** | Setting fallback values for function arguments |
-| 4 | **Keyword Arguments** | Calling functions with named parameters |
-| 5 | **Multiple Parameters** | Working with multiple inputs in a single function |
-| 6 | **`*args` & `**kwargs`** | Handling variable-length positional and keyword arguments |
+| 1 | **Defining Functions** | [📖 Read Guide](Day1/Funcation/Defining_Functions.md) |
+| 2 | **Arguments & Return** | [📖 Read Guide](Day1/Funcation/Defining_Functions.md#4-the-return-statement) |
+| 3 | **Applications** | [🚀 Read Guide](Day1/Funcation/Applications_Of_Functions.md) |
+| 4 | **`*args` & `**kwargs`** | [⚡ Read Guide](Day1/Funcation/Advanced_Arguments.md) |
+| 5 | **Jupyter Notebook** | [📓 Open Notebook](Day1/Funcation/FuncationPyhton.ipynb) |
 
 ---
 
